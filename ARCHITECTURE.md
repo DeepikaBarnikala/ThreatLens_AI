@@ -211,4 +211,4 @@ erDiagram
         string value
         boolean is_enforced
     }
-```
+
